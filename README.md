@@ -44,6 +44,18 @@ Test the analytical engine immediately using the browser-based web tool. When yo
 
 Available in both **Browser** and **Excel** editions. Simply configure your reporting periods, drop in your exported Amazon CSV reports, refresh the model, and start analyzing.
 
+
+## Questions, Feedback & Product Updates
+
+The Amazon Business Review Engine is designed to turn Seller Central, SQP, and Sellerboard exports into recurring profitability and performance reviews. Feedback is useful when it explains a real reporting workflow, data-mapping gap, or decision that the current output does not make clear.
+
+- **Questions & workflow fit:** [Ask about Seller Central / SQP imports, Sellerboard reconciliation, ASIN roll-ups, or WBR interpretation](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest missing Amazon reporting workflows, metrics, mappings, or decision views](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the Amazon WBR & SQP issue form](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+For import or calculation questions, identify the report type, marketplace, reporting period, and affected metric. Use a small synthetic or anonymized sample; never share Seller Central credentials, buyer data, order-level personal information, or unredacted financial exports.
+
 ---
 
 ## What It Helps You Track: Amazon Seller Pain Points vs. Automated WBR Solutions
